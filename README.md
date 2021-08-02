@@ -1,4 +1,4 @@
-# slider
+# news-slider
 
 ## Project setup
 ```
